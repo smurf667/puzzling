@@ -1,7 +1,7 @@
 MIDlet-1: Puzzling,,de.engehausen.mobile.puzzling.Main
 MIDlet-Jar-URL: Puzzling.jar
 MicroEdition-Configuration: CLDC-1.1
-MIDlet-Version: 1.0.0
+MIDlet-Version: 1.0.1
 MIDlet-Name: Puzzling Game
 MIDlet-Vendor: Jan Engehausen
 MIDlet-Info-URL: http://code.google.com/p/puzzling/
