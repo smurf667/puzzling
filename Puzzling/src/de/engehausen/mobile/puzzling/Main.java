@@ -46,7 +46,6 @@ public class Main extends MIDlet {
 	// non-javadoc: see superclass
 	protected void startApp() throws MIDletStateChangeException {
 		if (splashed) {
-			System.out.println("start app");
 			display.setCurrent(current);
 		} else {
 			splashed = true;
