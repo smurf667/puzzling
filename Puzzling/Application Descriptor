@@ -7,3 +7,4 @@ MIDlet-Vendor: Jan Engehausen
 MIDlet-Info-URL: http://code.google.com/p/puzzling/
 MIDlet-Permissions: javax.microedition.io.Connector.http
 MicroEdition-Profile: MIDP-2.0
+MIDlet-Icon: /i.png
