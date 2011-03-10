@@ -75,7 +75,6 @@ public class Main extends MIDlet {
 	// non-javadoc: see superclass
 	protected void pauseApp() {
 		// do nothing
-		System.out.println("pause");
 	}
 
 	// non-javadoc: see superclass
